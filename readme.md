@@ -1,6 +1,6 @@
 # [dclong/jupyterhub-sagemath](https://hub.docker.com/r/dclong/jupyterhub-sagemath/)
 
-JupyterHub with SageMath (with Python 3.5) in Docker. 
+JupyterHub with SageMath in Docker. 
 **It is recommended that you use the image
 [dclong/jupyterhub-ds](https://hub.docker.com/r/dclong/jupyterhub-ds/)
 for data science related work.**
